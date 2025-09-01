@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+C:/Users/Clara/r2000_reader_mqtt/build/CMakeFiles/bootloader
+C:/Users/Clara/r2000_reader_mqtt/build/CMakeFiles/bootloader.rule
+C:/Users/Clara/r2000_reader_mqtt/build/CMakeFiles/bootloader-complete.rule
+C:/Users/Clara/r2000_reader_mqtt/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+C:/Users/Clara/r2000_reader_mqtt/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+C:/Users/Clara/r2000_reader_mqtt/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+C:/Users/Clara/r2000_reader_mqtt/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+C:/Users/Clara/r2000_reader_mqtt/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+C:/Users/Clara/r2000_reader_mqtt/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+C:/Users/Clara/r2000_reader_mqtt/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
